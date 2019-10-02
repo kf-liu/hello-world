@@ -11,7 +11,7 @@ This time,I wanna learn sth about `markdown` ``markdown`` ```markdown```.</br></
 ###### 这是六级标题</br></br>
 
 **这是加粗的文字**</br>
-*这是倾斜的文字*`</br>
+*这是倾斜的文字*</br>
 ***这是斜体加粗的文字***</br>
 ~~这是加删除线的文字~~</br></br>
 
@@ -24,6 +24,9 @@ This time,I wanna learn sth about `markdown` ``markdown`` ```markdown```.</br></
 ***
 *****
 
+</br></br>
+
+!["HUNAN"](http://img1.voc.com.cn/UpLoadFile/2019/10/01/201910011326338947.jpg?center "HUNAN")
 
 !["cat"](https://c-ssl.duitang.com/uploads/item/201712/22/20171222223729_d8HCB.jpeg "miaomiaomiao")
 
